@@ -2,3 +2,4 @@ name: BannerRecipeAdder
 version: 1.0.0
 main: net.okocraft.bannerrecipeadder.Main
 api-version: 1.19
+folia-supported: true
